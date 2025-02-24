@@ -3,7 +3,7 @@ body{
     background-color: rgb(184, 113, 113);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
-    padding: 20px;
+    padding: 3%;
 }#navbar{
     color: chartreuse;
     text-align: center;
@@ -31,15 +31,15 @@ body{
 }
 .noticia{
     background-color: rgb(40, 45, 117); 
-    border-color: white; 
+    border-color: rgb(94, 48, 48); 
     padding: 2px; 
     border-style: solid;
    
 
 }
 img{
-    width: 300px;
-    height: 200px;
+    width: 350px;
+    height: 260px;
 }
 
 #vilao{
